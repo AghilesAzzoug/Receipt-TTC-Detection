@@ -2,10 +2,12 @@
 
 ## Context:
 The code was written in the case of a data scientist hiring challenge.
+
 @author: Aghiles Azzoug
 
 ## Data:
 The data (images + json descriptions) can be found on this GitHub repository (https://github.com/clovaai/cord). 
+
 link to the corresponding paper: https://openreview.net/pdf?id=SJl3z659UH
 
 ## Using the code:
